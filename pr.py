@@ -1,3 +1,4 @@
 print('hello word')
 
-print('changes')
+for i in range(3):
+    print(i)
